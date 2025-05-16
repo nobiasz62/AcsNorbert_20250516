@@ -1,0 +1,26 @@
+{
+  "name": "acsnorbert_20250516",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nobiasz62/AcsNorbert_20250516.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nobiasz62/AcsNorbert_20250516/issues"
+  },
+  "homepage": "https://github.com/nobiasz62/AcsNorbert_20250516#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
